@@ -1,0 +1,5 @@
+{
+  "name": "Propertyhub Kenya",
+  "description": "A premium property listing platform for the Kenyan real estate market, featuring residential and commercial properties in KES.",
+  "requestFramePermissions": ["geolocation"]
+}
